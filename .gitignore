@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 openai_api_key.txt
+*.ipynb
+books/
