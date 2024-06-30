@@ -9,3 +9,6 @@ streamlit
 st-social-media-links
 SQLAlchemy
 openai
+sentence-transformers
+huggingface-hub
+transformers
