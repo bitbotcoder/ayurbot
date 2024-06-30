@@ -6,8 +6,8 @@ from util import get_warning, get_agent, get_QA,get_response
 
 
 st.set_page_config(
-    page_title="Nature's Rx ChatBot - powered by ChatGPT, Langchain and Chroma", page_icon="🤖")
-st.header("👨‍⚕️ Nature's Rx ChatBot ",divider="rainbow")
+    page_title="AyurBot ChatBot - powered by ChatGPT, Langchain and Chroma", page_icon="🤖")
+st.header("👨‍⚕️ Nature's Rx Ayur ChatBot ",divider="rainbow")
 st.write("🍀Your Ayurveda and Naturopathy Companion for Natural Healing 🍀🌿💊")
 st.info("""This app does not store or share API keys externally. Configure Your OpenAI API Key and Hit Enter""", icon="ℹ️")
 api_key = st.text_input("OpenAI Key", label_visibility="collapsed",placeholder='OpenAI API Key',type="password")

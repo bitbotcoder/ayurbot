@@ -1,6 +1,7 @@
 # AyurBot 
 
 ## Overview
+🍀Your Ayurveda and Naturopathy Companion for Natural Healing 🍀🌿💊
 AyurBot is a cutting-edge AI-powered chatbot designed to provide natural remedies and health advice. Built using Retrieval-Augmented Generation (RAG), ChatGPT by OpenAI, Streamlit, and Langchain, this bot offers personalized and accurate information to users seeking natural solutions for their health concerns.
 
 ## Features
@@ -46,7 +47,7 @@ To run the AyurBot locally, follow these steps:
 - Receive personalized natural remedy suggestions and advice in real-time.
 
 ## Contributing
-We welcome contributions to enhance the AyurBot! Please follow these steps to contribute:
+For contributions to enhance the AyurBot! Please follow these steps to contribute:
 
 1. **Fork the repository**.
 2. **Create a new branch**:
@@ -75,6 +76,6 @@ Acknowledgements
 - [Chroma](https://github.com/chroma-core/chroma)
 
 📢 Share with wider community:
-- [X](https://x.com/intent/tweet?hashtags=streamlit%2Cpython&text=Check%20out%20this%20awesome%20Streamlit%20app%20I%20built%0A&url=https%3A%2F%2Fautoml-wiz.streamlit.app)
-- [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?summary=https%3A%2F%2Fautoml-wiz.streamlit.app%20%23streamlit%20%23python&title=Check%20out%20this%20awesome%20Streamlit%20app%20I%20built%0A&url=https%3A%2F%2Fautoml-wiz.streamlit.app")
-- [Facebook](https://www.facebook.com/sharer/sharer.php?kid_directed_site=0&u=https%3A%2F%2Fautoml-wiz.streamlit.app)
+- [X](https://x.com/intent/tweet?hashtags=streamlit%2Cpython&text=Check%20out%20this%20awesome%20Streamlit%20app%20I%20built%0A&url=https%3A%2F%2Fayurbot9.streamlit.app)
+- [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?summary=https%3A%2F%2Fayurbot9.streamlit.app%20%23streamlit%20%23python&title=Check%20out%20this%20awesome%20Streamlit%20app%20I%20built%0A&url=https%3A%2F%2Fayurbot9.streamlit.app")
+- [Facebook](https://www.facebook.com/sharer/sharer.php?kid_directed_site=0&u=https%3A%2F%2Fayurbot9.streamlit.app)
