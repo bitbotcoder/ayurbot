@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-core
+tabulate
+numpy
+pandas
+streamlit
+st-social-media-links
+SQLAlchemy
