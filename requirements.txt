@@ -12,3 +12,4 @@ openai
 sentence-transformers
 huggingface-hub
 transformers
+chromadb
