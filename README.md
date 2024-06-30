@@ -31,10 +31,12 @@ To run the AyurBot locally, follow these steps:
     ```
 
 3. **Set up API keys**:
+   Setup key during runtime or setup with environment variable 
    Create a `.env` file in the root directory and add your OpenAI API key:
     ```
     OPENAI_API_KEY=your_openai_api_key_here
     ```
+    
 
 4. **Run the Streamlit app**:
     ```bash
